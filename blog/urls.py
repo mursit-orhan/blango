@@ -1,4 +1,4 @@
-# other imports
+from django.urls import path, include# other imports
 import blog.views
 
 urlpatterns = [
